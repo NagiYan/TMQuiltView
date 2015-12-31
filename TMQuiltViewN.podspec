@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "TMQuiltViewN"
-  s.version      = "0.0.2"
+  s.version      = "0.0.2.1"
   s.summary      = "change from TMQuiltView(he stoped update). improved performance and add headerView"
 
   # This description is used to generate tags and improve search results.
@@ -80,7 +80,7 @@ Interface similar to the UITableView with UI similar to Pintrest. from Homepage:
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  s.source       = { :git => "https://github.com/NagiYan/TMQuiltView.git", :tag => "0.0.2" }
+  s.source       = { :git => "https://github.com/NagiYan/TMQuiltView.git", :tag => "0.0.2.1" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
