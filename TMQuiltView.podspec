@@ -15,9 +15,9 @@ Pod::Spec.new do |s|
   #  summary should be tweet-length, and the description more in depth.
   #
 
-  s.name         = "TMQuiltView"
+  s.name         = "TMQuiltViewN"
   s.version      = "0.0.2"
-  s.summary      = "Interface similar to the UITableView with UI similar to Pintrest. improved performance and add headerView"
+  s.summary      = "change from TMQuiltView(he stoped update). improved performance and add headerView"
 
   # This description is used to generate tags and improve search results.
   #   * Think: What does it do? Why did you write it? What is the focus?
